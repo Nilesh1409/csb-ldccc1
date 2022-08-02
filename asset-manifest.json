@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nilesh1409.github.io/csb-ldccc1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nilesh1409.github.io/csb-ldccc1/static/js/main.b70e43f1.chunk.js",
+    "main.js.map": "https://nilesh1409.github.io/csb-ldccc1/static/js/main.b70e43f1.chunk.js.map",
+    "runtime-main.js": "https://nilesh1409.github.io/csb-ldccc1/static/js/runtime-main.64a12d23.js",
+    "runtime-main.js.map": "https://nilesh1409.github.io/csb-ldccc1/static/js/runtime-main.64a12d23.js.map",
+    "static/js/2.b0504009.chunk.js": "https://nilesh1409.github.io/csb-ldccc1/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://nilesh1409.github.io/csb-ldccc1/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://nilesh1409.github.io/csb-ldccc1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nilesh1409.github.io/csb-ldccc1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://nilesh1409.github.io/csb-ldccc1/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64a12d23.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b70e43f1.chunk.js"
+  ]
+}
